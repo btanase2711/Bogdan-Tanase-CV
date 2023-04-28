@@ -1,0 +1,20 @@
+body {
+    font-family: 'Segoe UI';
+    margin: 0;
+}
+
+/* Acest selector defineste linia estetica de la inceputul paginii */
+.top-line {
+    width: 100%;
+    height: 10px;
+    background-color: #005889;
+    position: fixed;
+    top: 0;
+    z-index: 5;
+}
+.nume{
+    position: relative;
+    left: 10px;
+    left: 20px;
+    z-index: 4;
+}
